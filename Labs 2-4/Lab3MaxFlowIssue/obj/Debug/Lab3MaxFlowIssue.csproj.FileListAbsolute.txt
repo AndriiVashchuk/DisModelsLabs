@@ -1,0 +1,7 @@
+D:\KN-414\DM\Labs-master\Lab3MaxFlowIssue\bin\Debug\Lab3MaxFlowIssue.exe.config
+D:\KN-414\DM\Labs-master\Lab3MaxFlowIssue\bin\Debug\Lab3MaxFlowIssue.exe
+D:\KN-414\DM\Labs-master\Lab3MaxFlowIssue\bin\Debug\Lab3MaxFlowIssue.pdb
+D:\KN-414\DM\Labs-master\Lab3MaxFlowIssue\obj\Debug\Lab3MaxFlowIssue.csproj.CoreCompileInputs.cache
+D:\KN-414\DM\Labs-master\Lab3MaxFlowIssue\obj\Debug\Lab3MaxFlowIssue.exe
+D:\KN-414\DM\Labs-master\Lab3MaxFlowIssue\obj\Debug\Lab3MaxFlowIssue.pdb
+D:\KN-414\DM\Labs-master\Lab3MaxFlowIssue\obj\Debug\Lab3MaxFlowIssue.csprojAssemblyReference.cache
