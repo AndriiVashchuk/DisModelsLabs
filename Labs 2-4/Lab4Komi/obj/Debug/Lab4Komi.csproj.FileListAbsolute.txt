@@ -1,0 +1,13 @@
+D:\KN-414\DM\Labs-master\Lab4Komi\bin\Debug\Lab4Komi.exe.config
+D:\KN-414\DM\Labs-master\Lab4Komi\bin\Debug\Lab4Komi.exe
+D:\KN-414\DM\Labs-master\Lab4Komi\bin\Debug\Lab4Komi.pdb
+D:\KN-414\DM\Labs-master\Lab4Komi\obj\Debug\Lab4Komi.csproj.CoreCompileInputs.cache
+D:\KN-414\DM\Labs-master\Lab4Komi\obj\Debug\Lab4Komi.exe
+D:\KN-414\DM\Labs-master\Lab4Komi\obj\Debug\Lab4Komi.pdb
+D:\KN-414\DM\Labs 2-4\Lab4Komi\bin\Debug\Lab4Komi.exe.config
+D:\KN-414\DM\Labs 2-4\Lab4Komi\bin\Debug\Lab4Komi.exe
+D:\KN-414\DM\Labs 2-4\Lab4Komi\bin\Debug\Lab4Komi.pdb
+D:\KN-414\DM\Labs 2-4\Lab4Komi\obj\Debug\Lab4Komi.csprojAssemblyReference.cache
+D:\KN-414\DM\Labs 2-4\Lab4Komi\obj\Debug\Lab4Komi.csproj.CoreCompileInputs.cache
+D:\KN-414\DM\Labs 2-4\Lab4Komi\obj\Debug\Lab4Komi.exe
+D:\KN-414\DM\Labs 2-4\Lab4Komi\obj\Debug\Lab4Komi.pdb
